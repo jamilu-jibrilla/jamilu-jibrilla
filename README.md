@@ -1,5 +1,3 @@
-### Hello 👋
-
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b9525076a4f5ff10003aae842a367eca34ff4f70498f&rid=giphy.gif&ct=s&ct=s" width="200"/>
 </div>
@@ -15,11 +13,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=jamilu-jibrilla&style=flat-square&color=blue" alt=""/> --> 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px"/>
+  <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=6c09b9529452b58ef3a88d464e70a96dc3d1f0a390696197&rid=giphy.gif&ct=s" width="30"/>
 </h1>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=jamilu-jibrilla&style=flat-square&color=blue" alt=""/> --> 
 
 <!--
 **jamilu-jibrilla/jamilu-jibrilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
