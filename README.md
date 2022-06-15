@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b9525076a4f5ff10003aae842a367eca34ff4f70498f&rid=giphy.gif&ct=s&ct=s" width="100"/>
+</div>
+
 <!--
 **jamilu-jibrilla/jamilu-jibrilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
