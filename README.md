@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b9525076a4f5ff10003aae842a367eca34ff4f70498f&rid=giphy.gif&ct=s&ct=s" width="200"/>
+  <img src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b9525076a4f5ff10003aae842a367eca34ff4f70498f&rid=giphy.gif&ct=s&ct=s" width="100"/>
 </div>
 <br>
 <div id="badges" align="center"  >  
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=jamilu-jibrilla&style=flat-square&color=blue" alt=""/> 
+<img align="center" src="https://komarev.com/ghpvc/?username=jamilu-jibrilla&style=flat-square&color=blue" alt=""/> 
 
 <h1 align="center">
   hey there
