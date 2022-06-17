@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b9525076a4f5ff10003aae842a367eca34ff4f70498f&rid=giphy.gif&ct=s&ct=s" width="200"/>
 </div>
 <br>
-<div id="badges" >  
+<div id="badges" align="center"  >  
   <a href="https://www.linkedin.com/mwlite/in/jamilu-jibrilla-575441211 ">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
@@ -16,7 +16,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jamilu-jibrilla&style=flat-square&color=blue" alt=""/> 
 
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=6c09b9529452b58ef3a88d464e70a96dc3d1f0a390696197&rid=giphy.gif&ct=s" width="30"/>
 </h1>
