@@ -12,9 +12,11 @@
   <a href="https://twitter.com/Jb_jameel?s=09 ">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <div>
+    <img align="center" src="https://komarev.com/ghpvc/?username=jamilu-jibrilla&style=flat-square&color=blue" alt=""/>   
+  </div>
 </div>
-
-<img align="center" src="https://komarev.com/ghpvc/?username=jamilu-jibrilla&style=flat-square&color=blue" alt=""/> 
+ 
 
 <h1 align="center">
   hey there
