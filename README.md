@@ -30,11 +30,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Frontend Web Developer from Nigeria.
 
-- :telescope: I’m a Software Engineering student, working on building frontend web application projects for my portfolio .
+- :telescope: I’m a Software Engineering student, working on building frontend web applications for my portfolio .
 
-- :seedling: Currently learning Frontend technologies (TAILWIND CSS, JAVASCRIPT-REACT and NODE JS) and Technical writing. 
+- :seedling: Currently learning Frontend technologies (TAILWIND CSS, JAVASCRIPT-REACT, NODE JS) and Technical writing. 
 
 - 👯 I’m looking to collaborate on open source projects. 
 
