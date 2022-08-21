@@ -30,15 +30,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Frontend Web Developer from Nigeria.
 
-- :telescope: I’m a Software Engineering student, working on building frontend web applications for my portfolio .
+- :telescope: I am a frontend developer. 
 
-- :seedling: Currently learning Frontend technologies (TAILWIND CSS, JAVASCRIPT-REACT, NODE JS) and Technical writing. 
-
+- :seedling: Technologies i work with (HTML, CSS, JS, REACT). 
 - 👯 I’m looking to collaborate on open source projects. 
 
-- :zap: In my free time, I solve problems on HACKERRANK, read and write tech articles . 
+- :zap: In my free time, I solve problems on HACKERRANK, read and write tech articles. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/jamilu-jibrilla-575441211).
 
