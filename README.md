@@ -23,10 +23,10 @@
   <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=6c09b9529452b58ef3a88d464e70a96dc3d1f0a390696197&rid=giphy.gif&ct=s" width="30"/>
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="300"/>
 </div
-
+ -->
 ---
 
 ### :man_technologist: About Me :
